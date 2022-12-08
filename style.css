@@ -121,9 +121,7 @@ input[type='number'] {
 
 
 
-.list li.minus {
-    border-right: 5px solid #c0962b;
-}
+
 
 .delete-boton {
     cursor: pointer;
